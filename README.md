@@ -1,4 +1,4 @@
-# netProject
+# Technical Assignment Project
 This project is for Expedia technical assignment 
 
 Bulit With :
